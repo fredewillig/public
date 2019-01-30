@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - FredeWillig
 
 You can use the [editor on GitHub](https://github.com/fredewillig/public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
